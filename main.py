@@ -9,7 +9,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 
 
-class basic_info(BaseModel):
+class basic_info(BaseModel):  
     stock_name : str
     up_trends : bool
     start_d  = (datetime.date.today() - datetime.timedelta(days=7)).strftime('%Y-%m-%d')
@@ -26,7 +26,7 @@ stocks_list = stocks(stock_name=local_db())
 
 app = FastAPI()
 
-@app.post("/db-alerts-stocks")
+@app.post("/db-alerts-stocks")   ### Checking if trigger goes into action and send appropriate message
 async def get_alert():
     dic = {}
     for stock in stocks_list.stock_name:

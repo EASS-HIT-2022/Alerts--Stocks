@@ -8,7 +8,7 @@ from main import app
 client = TestClient(app)
 
 
-def test_df_not_empty():
+def test_df_not_empty():   ### Checking if Pulled the data from Yahoo Finance
     stock = "AAPL"
     start_d  = (datetime.date.today() - datetime.timedelta(days=7)).strftime('%Y-%m-%d')
     end_d = datetime.date.today().strftime('%Y-%m-%d')
@@ -18,7 +18,7 @@ def test_df_not_empty():
     assert len(result) > 0  
 
 
-def test_connect_server():
+def test_connect_server():    ### Checking that the connection was made correctly
     response = client.post("/db-alerts-stocks")
     assert response.status_code == 200
 
