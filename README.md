@@ -7,7 +7,7 @@ The system will track stocks at the customer's request and send an appropriate m
 
 ## Backend
 
-![](/project-alerts-stock/Alerts%20Stock/images/one.PNG)
+![](/images/one.PNG)
 
 
-![](/project-alerts-stock/Alerts%20Stock/images/two.PNG)
+![](/images/two.PNG)
