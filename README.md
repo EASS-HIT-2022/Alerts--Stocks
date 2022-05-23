@@ -1,7 +1,7 @@
 # Stock Alert System
 
 -   [Description](#description)
--   [Quick start](#quick-start)
+-   [Quick start](#Quick-start)
 -   [Walk through](#walk-through)
     -   [Services](#Services)
     -   [File structure](#file-structure)
@@ -12,7 +12,7 @@
 
 The system will track stocks at the customer's request and send an appropriate message when the stock enters the trigger.
 
-### quick-start
+### Quick-start
 
 ### To run the project, we will enter the following commands:
 
