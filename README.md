@@ -66,6 +66,6 @@ And the docker-compose runs them all.
 
 ### Screenshots
 
-## Final Project
+## Final
 
 ![](/images/gif_alert_stock.gif)
