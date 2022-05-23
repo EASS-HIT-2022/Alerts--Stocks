@@ -16,6 +16,9 @@ The system will track stocks at the customer's request and send an appropriate m
 3. And finally go to the following link: http://localhost:8501/ in browser 
 
 
+
+
+
 ### Screenshots
 
 ## Final Project
