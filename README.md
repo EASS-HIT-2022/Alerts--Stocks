@@ -18,6 +18,6 @@ The system will track stocks at the customer's request and send an appropriate m
 
 ### Screenshots
 
-## Final
+## Final Project
 
 ![](/images/gif_alert_stock.gif)
