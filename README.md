@@ -11,16 +11,20 @@
 ###description
 The system will track stocks at the customer's request and send an appropriate message when the stock enters the trigger.
 
+<<<<<<< HEAD
 ###quick-start
 ### To run the project, we will record the following commands:
+=======
+### To run the project, we will enter the following commands:
+>>>>>>> c0a5f53d2db9333890ab6f1436e52599e24ee85b
 
-1. --To build the project -- run following command
+1. --To build the project -- run following command :
 
-docker compose build
+    **docker compose build**
 
-2. --To run the project -- run following command
+2. --To run the project -- run following command :
  
-docker compose up
+    **docker compose up**
 
 3. And finally go to the following link: http://localhost:8501/ in browser 
 
@@ -59,8 +63,11 @@ And the docker-compose runs them all.
 ```
 
 
+
+
+
 ### Screenshots
 
-## Final
+## Final Project
 
 ![](/images/gif_alert_stock.gif)
