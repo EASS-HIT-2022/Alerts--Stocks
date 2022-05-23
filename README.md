@@ -1,4 +1,4 @@
-###### Stock A lert System
+# Stock Alert System
 
 The system will track stocks at the customer's request and send an appropriate message when the stock enters the trigger.
 
@@ -21,9 +21,3 @@ docker compose up
 ## Final
 
 ![](/images/gif_alert_stock.gif)
-
-
-<!-- ![](/images/one.PNG)
-
-
-![](/images/two.PNG) -->
