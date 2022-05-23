@@ -5,13 +5,13 @@ The system will track stocks at the customer's request and send an appropriate m
 
 ### To run the project, we will record the following commands:
 
-1. --To build the project -- run following command
+1. --To build the project -- run following command :
 
-docker compose build
+    **docker compose build**
 
-2. --To run the project -- run following command
+2. --To run the project -- run following command :
  
-docker compose up
+    **docker compose up**
 
 3. And finally go to the following link: http://localhost:8501/ in browser 
 
