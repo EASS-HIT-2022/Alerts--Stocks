@@ -3,7 +3,7 @@
 The system will track stocks at the customer's request and send an appropriate message when the stock enters the trigger.
 
 
-### To run the project, we will record the following commands:
+### To run the project, we will enter the following commands:
 
 1. --To build the project -- run following command :
 
